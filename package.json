@@ -1,0 +1,9 @@
+{
+  "name": "bluewhale-3d-shooter",
+  "version": "0.1.0",
+  "description": "Minimal Three.js 3D shooter prototype",
+  "scripts": {
+    "start": "npx serve . -s"
+  },
+  "devDependencies": {}
+}
